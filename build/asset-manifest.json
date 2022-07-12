@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d092474.css",
+    "main.js": "/static/js/main.bd7d4343.js",
+    "static/js/787.ac4f228c.chunk.js": "/static/js/787.ac4f228c.chunk.js",
+    "static/media/sai-charirha.pdf": "/static/media/sai-charirha.c8a37d3dc4be7e064977.pdf",
+    "pdf.worker.js": "/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/akshar-regular-unicode-kannada-font.ttf": "/static/media/akshar-regular-unicode-kannada-font.2ce994ae09601734532d.ttf",
+    "static/media/om.jpg": "/static/media/om.fbd16322cf126a06b700.jpg",
+    "static/media/upi.jpg": "/static/media/upi.45e22c12b19924853d26.jpg",
+    "static/media/saimandir2.jpg": "/static/media/saimandir2.ac451062918575fd6827.jpg",
+    "static/media/sai-photo.jpg": "/static/media/sai-photo.8e8ac54cec94591a2fda.jpg",
+    "static/media/sai-photo2.jpg": "/static/media/sai-photo2.87617cad4fc509a13b4f.jpg",
+    "index.html": "/index.html",
+    "main.1d092474.css.map": "/static/css/main.1d092474.css.map",
+    "main.bd7d4343.js.map": "/static/js/main.bd7d4343.js.map",
+    "787.ac4f228c.chunk.js.map": "/static/js/787.ac4f228c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d092474.css",
+    "static/js/main.bd7d4343.js"
+  ]
+}
